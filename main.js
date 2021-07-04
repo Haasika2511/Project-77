@@ -1,0 +1,17 @@
+console.log("Hi this is my first Visual Studio Project");
+var first_name = "NEELAYYAGARI";
+console.log(first_name);
+var second_name = "HAASIKA";
+console.log(second_name);
+var full_name = first_name.concat(second_name);
+console.log(full_name);
+var a = 20;
+var b = 10;
+var add = a + b;
+console.log(add);
+var sub = a - b;
+console.log(sub);
+var mult = a * b;
+console.log(mult);
+var div = a / b;
+console.log(div);
